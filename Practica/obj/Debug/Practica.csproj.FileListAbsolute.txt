@@ -1,0 +1,7 @@
+D:\Sistema de desarrollo II\Practica\Practica\bin\Debug\Practica.exe.config
+D:\Sistema de desarrollo II\Practica\Practica\bin\Debug\Practica.exe
+D:\Sistema de desarrollo II\Practica\Practica\bin\Debug\Practica.pdb
+D:\Sistema de desarrollo II\Practica\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+D:\Sistema de desarrollo II\Practica\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+D:\Sistema de desarrollo II\Practica\Practica\obj\Debug\Practica.exe
+D:\Sistema de desarrollo II\Practica\Practica\obj\Debug\Practica.pdb
